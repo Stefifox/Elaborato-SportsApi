@@ -16,8 +16,6 @@ function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 }
 
-
-
 for(i = 0; i<10; i++){
   let risultato = new Object()
   risultato['idPartita'] = i + 1
